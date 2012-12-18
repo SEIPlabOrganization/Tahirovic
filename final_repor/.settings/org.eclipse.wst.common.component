@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Emrah">
+    <wb-module deploy-name="final_repor">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Emrah"/>
-        <property name="java-output-path" value="/Emrah/build/classes"/>
+        <property name="context-root" value="final_repor"/>
+        <property name="java-output-path" value="/final_repor/build/classes"/>
     </wb-module>
 </project-modules>

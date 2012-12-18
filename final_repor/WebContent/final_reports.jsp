@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Create final report</title>
+<title>Create Final Report</title>
 </head>
 <body>
 <h1>Create Final Report</h1>
 
 <table border="0" align="center">
-		<form action="CreateFinalReportSerlet" method="POST">
+		<form action="CreateFinalReportServlet" method="POST">
 			<tr><td align="right">Project progress:</td><td><input type="text" size="67" name="projectprocess"></td></tr>
 			<tr><td align="right">Project disadvantges:</td><td><input type="text" size="67" name="projectDisadvantages"></td></tr>
 			<tr><td align="right">Project advantegs:</td><td><textarea rows="4" cols="50" name="advantages"></textarea></td></tr>
